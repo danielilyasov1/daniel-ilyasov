@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Danielle Ilyasov 😊!</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
+<h3 align="center">Ready for my next challenge in Frontend / Full stack development positions in a company that is looking for problem-solving skills, energetic team player with strong communication skills and capable of working independently</h3>
+
 
 <h2>🙋‍ About Me</h2>
 
