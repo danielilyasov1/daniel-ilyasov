@@ -5,17 +5,11 @@
 
 <h2>🙋‍ About Me</h2>
 
-- 🔭 I’m currently looking for my first opportunity to **work in web development**.
-
-- 🌱 I continue to learn and develop my skills in **Vue.js, React, Angular**.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
+- 🌱 I continue to learn and develop my skills in **Vue.js, React, Angular, NodeJS**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/danielleilyasov).
 
 - 📫 You can reach me in danielle.ilyas@gmail.com.
-
-- 📄 Know about my experiences in [My Resume](https://docs.google.com/document/d/16-mq6tZ2kVt_baJ-nbHJHwhUzLjMnDIAwWI80coRZqM/edit?usp=sharing).
 
 - ⚡ Fun fact **I was 12 years in the field of gymnastics and I also coached in it for 3 years**
 
