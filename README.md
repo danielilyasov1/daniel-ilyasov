@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Danielle Ilyasov 😊!</h1>
+<h1 align="center">Hi 👋, I'm Daniel Ilyasov 😊!</h1>
 <h3 align="center">I`m Daniel, Full Stack Software Engineer experienced with Vue, Node.js, MongoDB and AWS with the ability to develop a WhatApp management platform that helps companies optimize organizational processes.</h3>
 
 
